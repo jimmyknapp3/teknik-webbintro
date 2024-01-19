@@ -14,4 +14,4 @@ ls list
 cd change directory
 pwd print working directory
 mkdir make directory
-.
+nav>ul.navigation>li*2>a
